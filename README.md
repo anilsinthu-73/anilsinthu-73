@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Anil Sinthu</h1>
 <h3 align="center">A passionate Full Stack Developer , Java Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilsinthu114&label=Profile%20views&color=0e75b6&style=flat" alt="anilsinthu114" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilsinthu-73&label=Profile%20views&color=0e75b6&style=flat" alt="anilsinthu-73" /> </p>
 
-- 🔭 I’m currently working as **Backend Developer for JNTUGV Website**
+- 🔭 I’m currently working on **Adaptive Compression Techniques for Enhancing Efficiency in
+Code-Centric Language Models**
 
-- 🌱 I’m currently learning **Python and Flask**
-
-- 👯 I’m looking to collaborate on **MERN projects and Java Projects**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 💬 Ask me about **Node.js, Express, MongoDB, MySQL, Java and Python**
 
-- 📫 How to reach me **21vv5a1273@jntugvcev.in**
+- 📫 How to reach me **anilsinthu73@gmail.com**
 
 - 📄 Know about my experiences :
   <a href="https://linkedin.com/in/anilsinthu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anilsinthu" height="20" width="20" /></a>
