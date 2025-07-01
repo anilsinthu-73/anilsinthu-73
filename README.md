@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anil Sinthu</h1>
-<h3 align="center">A passionate Full Stack Developer , Java Developer</h3>
+<h3 align="center">A passionate Full Stack Developer , Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilsinthu-73&label=Profile%20views&color=0e75b6&style=flat" alt="anilsinthu-73" /> </p>
 
@@ -39,7 +39,7 @@ Code-Centric Language Models**
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+<img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="flask" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
@@ -64,9 +64,9 @@ Code-Centric Language Models**
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilsinthu114&show_icons=true&locale=en&layout=compact&theme=radical" alt="anilsinthu114" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilsinthu-73&show_icons=true&locale=en&layout=compact&theme=radical" alt="anilsinthu-73" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilsinthu114&show_icons=true&locale=en&theme=radical" alt="anilsinthu114" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilsinthu-73&show_icons=true&locale=en&theme=radical" alt="anilsinthu-73" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilsinthu114&theme=radical" alt="anilsinthu114" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilsinthu-73&theme=radical" alt="anilsinthu-73" /></p>
 
